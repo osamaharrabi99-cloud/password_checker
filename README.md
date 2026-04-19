@@ -14,12 +14,6 @@ A clean, modern, and interactive web application to check the strength of your p
 
 ---
 
-## 📱 Preview
-
-![Password Strength Checker Preview](https://via.placeholder.com/800x450/667eea/ffffff?text=Password+Strength+Checker)
-
----
-
 ## 🔥 Features
 
 - Instant password strength checking
